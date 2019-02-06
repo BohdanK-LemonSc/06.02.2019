@@ -1,3 +1,7 @@
+body {
+    background-color: darkgrey;
+}
+
 .container {
     max-width: 992px;
     margin: auto;
@@ -15,4 +19,15 @@ nav ul li a {
     color: white;
     background-color: black;
     padding: 5px 10px;
+}
+
+main .content {
+    text-align: justify;
+    max-width: 992px;
+    margin: auto;
+    background-color: black;
+    color: white;
+    text-transform: uppercase;
+    padding: 20px;
+    
 }
